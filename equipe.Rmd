@@ -1,0 +1,15 @@
+---
+title: "Equipe"
+output:
+  html_document:
+    toc: false
+---
+
+
+- André Lourenço Nogueira	Eng. Química/MEP/UNIVILLE (Joinville) - [cv-lattes](http://lattes.cnpq.br/2410902090669075)
+- André Wust Zibetti	INE/CTC/UFSC (Florianópolis)	- [cv-lattes](http://lattes.cnpq.br/4148620280683594)
+- Bruno A. M. Carciofi	EQA/CTC/UFSC (Florianópolis)	- [cv-lattes](http://lattes.cnpq.br/5395732758179393) 
+- Luiz Rafael dos Santos	MAT/CTE/UFSC (Blumenau)	- [cv-lattes](http://lattes.cnpq.br/8148144650071227)
+- Nestor Roqueiro	DAS/CTC/UFSC (Florianópolis)	- [cv-lattes](http://lattes.cnpq.br/173819867240445)
+- Oscar Bruna Romero	MIP/CCB/UFSC (Florianópolis)	- [cv-lattes](http://lattes.cnpq.br/2472508053117517)
+		

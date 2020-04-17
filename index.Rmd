@@ -1,0 +1,10 @@
+---
+title: "Análises - Covid19SC - Brasil"
+output:
+  html_document:
+    toc: false
+---
+
+Grupo: Covid19SC
+
+Espaço compartilhado de relatórios de análises científicas sobre o Covid-19 no Brasil, com foco no estado de santa catarina.

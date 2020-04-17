@@ -1,0 +1,72 @@
+---
+title: "Formato de submissão"
+---
+
+Ver referência de como submeter o documento.
+
+# Título 1
+
+Texto no corpo do texto, texto, texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto.
+
+## Título 2
+
+Texto no corpo do texto, texto, texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto.
+
+### Título 3
+
+Texto no corpo do texto, texto, texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto texto, texto.
+
+# Equações
+
+As equações devem estar no formato LaTex;
+
+As equações inline deve estar entre ($), exemplo: $y = ax + b$
+
+ As equações em destaque deve estar entre dois (), exemplo 
+
+```{css}
+$$
+y = \alpha x + \beta
+$$
+``` 
+
+
+$$
+y = \alpha x + \beta
+$$
+
+ou ainda
+
+```{css}
+$$
+\begin{aligned}
+y_1 = \alpha_1 x + \beta_1 \\
+y_2 + b -c + 2 = \alpha_2 x + \beta_2  - \frac{a}{b} - \sum_{i=1}^{n}{x_i} - \int_{0}^{\infty}{e^{-x^2}dx}\\
+\end{aligned}
+$$
+``` 
+
+$$
+\begin{aligned}
+y_1 = \alpha_1 x + \beta_1 \\
+y_2 + b -c + 2 = \alpha_2 x + \beta_2  - \frac{a}{b} - \sum_{i=1}^{n}{x_i} - \int_{0}^{\infty}{e^{-x^2}dx}\\
+\end{aligned}
+$$
+
+ou ainda com alinhamento utilizando o marcado &
+
+```{css}
+$$
+\begin{aligned}
+y_1 &= \alpha_1 x + \beta_1 \\
+y_2 + b -c + 2 &= \alpha_2 x + \beta_2  - \frac{a}{b} - \sum_{i=1}^{n}{x_i} - \int_{0}^{\infty}{e^{-x^2}dx}\\
+\end{aligned}
+$$
+```
+
+$$
+\begin{aligned}
+y_1 &= \alpha_1 x + \beta_1 \\
+y_2 + b -c + 2 &= \alpha_2 x + \beta_2  - \frac{a}{b} - \sum_{i=1}^{n}{x_i} - \int_{0}^{\infty}{e^{-x^2}dx}\\
+\end{aligned}
+$$

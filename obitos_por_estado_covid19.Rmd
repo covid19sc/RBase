@@ -1,0 +1,70 @@
+---
+title: "Óbitos por estado"
+output:
+  html_document:
+    toc: false
+---
+
+Óbitos por dia em cada um dos estados da federação.
+
+```{r}
+images = c(
+  "fig/obitos_AC.png", #1
+  "fig/obitos_AL.png", #2
+  "fig/obitos_AM.png",
+  "fig/obitos_AP.png",
+  "fig/obitos_BA.png",
+  "fig/obitos_CE.png",
+  "fig/obitos_DF.png",
+  "fig/obitos_ES.png",
+  "fig/obitos_GO.png",
+  "fig/obitos_MA.png",
+  "fig/obitos_MG.png",
+  "fig/obitos_MS.png",
+  "fig/obitos_MT.png",
+  "fig/obitos_PA.png",
+  "fig/obitos_PB.png",
+  "fig/obitos_PE.png",
+  "fig/obitos_PI.png",
+  "fig/obitos_PR.png",
+  "fig/obitos_RJ.png",
+  "fig/obitos_RN.png",
+  "fig/obitos_RO.png",
+  "fig/obitos_RR.png",
+  "fig/obitos_RS.png",
+  "fig/obitos_SC.png",
+  "fig/obitos_SE.png",
+  "fig/obitos_SP.png",
+  "fig/obitos_TO.png"
+)
+```
+
+```{r, fig.cap = "This is a caption", out.width = "100%", fig.show = "hold"}
+knitr::include_graphics(images[1])
+knitr::include_graphics(images[2])
+knitr::include_graphics(images[3])
+knitr::include_graphics(images[4])
+knitr::include_graphics(images[5])
+knitr::include_graphics(images[6])
+knitr::include_graphics(images[7])
+knitr::include_graphics(images[8])
+knitr::include_graphics(images[9])
+knitr::include_graphics(images[10])
+knitr::include_graphics(images[11])
+knitr::include_graphics(images[12])
+knitr::include_graphics(images[13])
+knitr::include_graphics(images[14])
+knitr::include_graphics(images[15])
+knitr::include_graphics(images[16])
+knitr::include_graphics(images[17])
+knitr::include_graphics(images[18])
+knitr::include_graphics(images[19])
+knitr::include_graphics(images[20])
+knitr::include_graphics(images[21])
+knitr::include_graphics(images[22])
+knitr::include_graphics(images[23])
+knitr::include_graphics(images[24])
+knitr::include_graphics(images[25])
+knitr::include_graphics(images[26])
+knitr::include_graphics(images[27])
+```

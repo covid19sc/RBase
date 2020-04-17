@@ -1,0 +1,26 @@
+name: "Análises - Covid19"
+output:
+  html_document:
+    theme: journal
+    highlight: default
+    css: styles.css
+    code_folding: hide
+    toc: yes
+    toc_depth: 4
+    toc_float:
+      collapsed: no
+      smooth_scroll: no
+navbar:
+  title: "COVID19SC-Brasil"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Submissão"
+      href: about.html
+    - text: "Óbitos por estado"
+      href: obitos_por_estado_covid19.html
+    - text: "Infectados por estado"
+      href: infectados_por_estado_covid19.html
+    - text: "Equipe"
+      href: equipe.html
+      

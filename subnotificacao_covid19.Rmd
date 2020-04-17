@@ -1,0 +1,70 @@
+---
+title: "Subnotificação Covid19"
+output:
+  html_document:
+    toc: false
+---
+
+Crescimento exponencial dos infectados em cada um dos estados da federação.
+
+```{r}
+images = c(
+  "fig/fitexp_AC.png", #1
+  "fig/fitexp_AL.png", #2
+  "fig/fitexp_AM.png",
+  "fig/fitexp_AP.png",
+  "fig/fitexp_BA.png",
+  "fig/fitexp_CE.png",
+  "fig/fitexp_DF.png",
+  "fig/fitexp_ES.png",
+  "fig/fitexp_GO.png",
+  "fig/fitexp_MA.png",
+  "fig/fitexp_MG.png",
+  "fig/fitexp_MS.png",
+  "fig/fitexp_MT.png",
+  "fig/fitexp_PA.png",
+  "fig/fitexp_PB.png",
+  "fig/fitexp_PE.png",
+  "fig/fitexp_PI.png",
+  "fig/fitexp_PR.png",
+  "fig/fitexp_RJ.png",
+  "fig/fitexp_RN.png",
+  "fig/fitexp_RO.png",
+  "fig/fitexp_RR.png",
+  "fig/fitexp_RS.png",
+  "fig/fitexp_SC.png",
+  "fig/fitexp_SE.png",
+  "fig/fitexp_SP.png",
+  "fig/fitexp_TO.png"
+)
+```
+
+```{r, fig.cap = "This is a caption", out.width = "100%", fig.show = "hold"}
+knitr::include_graphics(images[1])
+knitr::include_graphics(images[2])
+knitr::include_graphics(images[3])
+knitr::include_graphics(images[4])
+knitr::include_graphics(images[5])
+knitr::include_graphics(images[6])
+knitr::include_graphics(images[7])
+knitr::include_graphics(images[8])
+knitr::include_graphics(images[9])
+knitr::include_graphics(images[10])
+knitr::include_graphics(images[11])
+knitr::include_graphics(images[12])
+knitr::include_graphics(images[13])
+knitr::include_graphics(images[14])
+knitr::include_graphics(images[15])
+knitr::include_graphics(images[16])
+knitr::include_graphics(images[17])
+knitr::include_graphics(images[18])
+knitr::include_graphics(images[19])
+knitr::include_graphics(images[20])
+knitr::include_graphics(images[21])
+knitr::include_graphics(images[22])
+knitr::include_graphics(images[23])
+knitr::include_graphics(images[24])
+knitr::include_graphics(images[25])
+knitr::include_graphics(images[26])
+knitr::include_graphics(images[27])
+```
